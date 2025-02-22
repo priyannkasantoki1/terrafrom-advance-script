@@ -18,7 +18,7 @@ terraform graph -type=plan | dot -Tpng > graph.png
 ## 3. View the Graph
 
 ```bash
-firefox graph.png === show the graph 
+firefox graph.png 
 ```
 
 ## 4. second methods
